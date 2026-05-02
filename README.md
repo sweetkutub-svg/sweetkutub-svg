@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=200&section=header&text=Sk.%20Kutubuddin&fontSize=55&fontColor=fff&fontAlignY=38&desc=Web%20Developer%20%26%20Programming%20Enthusiast&descAlignY=58&descColor=a5f3fc&animation=fadeIn)
+![Header](./header.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=500&lines=Hey+I'm+Sk+Kutubuddin!+👋;Web+Developer+%26+Creative+Coder+🚀;Built+MAISON+Store+E-Commerce+🛍️;Mondol+%26+Rao's+Restaurant+Sites+🍽️;2nd+Year+Diploma+Student+2024-2027;Open+to+Freelance+%26+Internships+🟢;Kolkata%2C+India+☕)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hey+I'm+Sk+Kutubuddin!+%F0%9F%91%8B;Web+Developer+%26+Creative+Coder;Built+MAISON+Store+E-Commerce+%F0%9F%9B%8D%EF%B8%8F;Mondol+%26+Rao's+Restaurant+Sites;2nd+Year+Diploma+Student+2024-2027;Open+to+Freelance+%26+Internships;Kolkata%2C+India+%E2%98%95)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,7 +25,7 @@
 - 📧 **Contact** — codewithkutub@gmail.com
 - ☕ **Fun Fact** — Chai fuels my late-night coding sessions!
 
-> *"Code is not just instructions for machines — it's creative expression turned into something real that people can use and feel."*
+> *"Code is not just instructions for machines — it's creative expression turned into something real."*
 
 ---
 
@@ -140,6 +140,6 @@
 ![Followers](https://img.shields.io/github/followers/sweetkutub-svg?style=for-the-badge&color=06b6d4&logo=github&label=Followers)
 ![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:7c3aed&height=100&section=footer&animation=fadeIn)
+![Footer](./footer.svg)
 
 </div>
