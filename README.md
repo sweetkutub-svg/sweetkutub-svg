@@ -8,22 +8,24 @@
 
 # Sk Kutubuddin
 
-### Web Developer &nbsp;|&nbsp; Creative Coder &nbsp;|&nbsp; Diploma Engineering Student
+### Front-End Web Developer &nbsp;|&nbsp; Final-Year Diploma Student (2024 to 2027)
 
 <br>
 
-*Building clean, responsive and user-focused websites, one project at a time.*
+**I build fast, responsive and visually polished websites for businesses, restaurants and brands.**
+<br>
+Graduating in 2027 and open to internships, junior roles and freelance projects.
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Hey%2C+I'm+Sk+Kutubuddin+%F0%9F%91%8B;Web+Developer+%26+Creative+Coder;Built+MAISON+Store+E-Commerce+%F0%9F%9B%8D%EF%B8%8F;Mondol+%26+Rao's+Restaurant+Websites;Open+to+Freelance+%26+Internships;Based+in+Kolkata%2C+India+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Final-Year+Diploma+Student+%7C+Class+of+2027;Front-End+Web+Developer;4%2B+Live+Websites+Deployed;E-Commerce+%7C+Restaurant+%7C+Portfolio+Sites;Open+to+Internships+%26+Junior+Roles;Based+in+Kolkata%2C+India)](https://git.io/typing-svg)
 
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sweetkutub-svg.github.io/My_Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-kutubuddin-6377a1391/)
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithkutub@gmail.com)
-[![Status](https://img.shields.io/badge/Status-Open_to_Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white)](#-lets-work-together)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithkutub@gmail.com)
+[![Status](https://img.shields.io/badge/Status-Open_to_Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white)](#-availability-and-work-preferences)
 
 <br>
 
@@ -39,56 +41,147 @@
 
 ## Table of Contents
 
-- [About Me](#-about-me)
-- [Quick Facts](#-quick-facts)
+- [Professional Summary](#-professional-summary)
+- [Why Work With Me](#-why-work-with-me)
+- [At a Glance](#-at-a-glance)
+- [Core Competencies](#-core-competencies)
 - [Tech Stack](#-tech-stack)
-- [Skill Overview](#-skill-overview)
 - [Featured Projects](#-featured-projects)
-- [Project Deep Dive](#-project-deep-dive)
-- [What I Am Learning](#-what-i-am-learning)
-- [Learning Roadmap](#-learning-roadmap)
-- [Development Workflow](#-development-workflow)
-- [Engineering Principles](#-engineering-principles)
-- [Services I Offer](#-services-i-offer)
-- [Currently Working On](#-currently-working-on)
-- [Goals](#-goals)
+- [Project Case Studies](#-project-case-studies)
+- [Final-Year Project](#-final-year-project)
+- [How I Work](#-how-i-work)
+- [Code Quality Standards](#-code-quality-standards)
+- [Skills Matrix](#-skills-matrix)
+- [Continuous Learning](#-continuous-learning)
+- [Career Objective](#-career-objective)
+- [Services](#-services)
+- [Availability and Work Preferences](#-availability-and-work-preferences)
+- [Education](#-education)
 - [Frequently Asked Questions](#-frequently-asked-questions)
-- [Lets Work Together](#-lets-work-together)
-- [Connect With Me](#-connect-with-me)
+- [Contact](#-contact)
 
 ---
 
-## 👤 About Me
+## 👤 Professional Summary
 
-I am a diploma student in a three-year program (2024 to 2027), currently in my
-second year. I enjoy turning ideas into fast, clean and responsive websites, and
-I care about the small details that make a site feel polished: spacing,
-typography, smooth interactions and clear structure.
+I am a final-year diploma student (2024 to 2027) and front-end web developer
+based in Kolkata, India. Over the course of my studies I have designed, built and
+deployed **more than four live websites**, including a luxury e-commerce store and
+multiple fine-dining restaurant sites, all hosted publicly so anyone can review
+the work.
 
-Alongside web development, I work with Python for scripting and automation, and I
-like experimenting with side projects such as a voice assistant called Jarvis.
-Every project is a chance to learn something new and to ship something real.
+My focus is on turning a business goal into a clean, fast and responsive website.
+I work primarily with **HTML5, CSS3, JavaScript and Bootstrap 5**, use **Git and
+GitHub** for version control and deployment, and use **Python** for scripting and
+automation. I am now extending my skills toward full-stack development with
+**Node.js, MySQL and React**.
+
+I am looking for an opportunity, whether an internship, a junior developer role or
+a freelance engagement, where I can contribute from day one and keep growing
+alongside an experienced team.
 
 > *"Code is not just instructions for machines. It is creative expression turned into something real."*
 
 <br>
 
-## ⚡ Quick Facts
+---
+
+## ⭐ Why Work With Me
+
+<div align="center">
+
+| | Strength | What It Means for You |
+|:---:|:---|:---|
+| 🚀 | **I ship real, live work** | Every project below is deployed and publicly viewable, not a tutorial clone stuck on my laptop. |
+| 📱 | **Responsive by default** | Sites are built to work cleanly on phones, tablets and desktops. |
+| 🎨 | **Design sensibility** | I care about spacing, typography and visual hierarchy, so the result looks professional. |
+| 🧱 | **Clean, maintainable code** | Organized structure, meaningful naming and consistent styling that others can pick up easily. |
+| 📈 | **Fast learner** | I moved from static pages to interactive e-commerce features and am now learning backend and React. |
+| 🤝 | **Reliable communication** | Clear updates, honest timelines and quick responses. |
+| 🌍 | **Business-minded** | I build with the customer journey in mind: menus, reservations, catalogs, reviews and conversions. |
+
+</div>
+
+<br>
+
+---
+
+## ⚡ At a Glance
 
 <div align="center">
 
 | | |
 |:---|:---|
-| 🎓 **Education** | Diploma Program, 2024 to 2027 (currently 2nd year) |
+| 🎓 **Education** | Diploma program, 2024 to 2027 (final year) |
 | 📍 **Location** | Kolkata, West Bengal, India |
-| 💼 **Focus** | Front-end web development, responsive design |
-| 🐍 **Also into** | Python scripting, automation, voice assistants |
-| 🚀 **Projects built** | 4+ live websites |
-| 🌱 **Learning** | Node.js, MySQL, React |
+| 💼 **Role Focus** | Front-End Web Developer, Junior Full-Stack (in progress) |
+| 🚀 **Delivered** | 4+ live websites across e-commerce, hospitality and portfolio |
+| 🛠 **Core Skills** | HTML5, CSS3, JavaScript, Bootstrap 5, Python, Git |
+| 🌱 **Learning Now** | Node.js, MySQL, React |
+| 🗣 **Languages** | English, Hindi, Bengali <!-- edit to match your languages --> |
 | 📬 **Email** | codewithkutub@gmail.com |
-| ☕ **Fuel** | Chai, especially during late-night coding sessions |
+| 🟢 **Availability** | Open to internships, junior roles and freelance work |
 
 </div>
+
+<br>
+
+---
+
+## 🧩 Core Competencies
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Front-End Development
+
+- Semantic, accessible HTML5 markup
+- Modern CSS: Flexbox, Grid, custom properties, transitions
+- Responsive, mobile-first layouts
+- Vanilla JavaScript for interactive UI
+- Bootstrap 5 components and utilities
+- Cross-browser and cross-device testing
+
+</td>
+<td width="50%" valign="top">
+
+### UI and Experience Design
+
+- Visual hierarchy and consistent design systems
+- Typography, color and spacing decisions
+- Micro-interactions and scroll animations
+- Conversion-focused sections (menus, reviews, CTAs)
+- Clean navigation and page structure
+- Attention to detail and polish
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Programming and Automation
+
+- Python scripting and task automation
+- Voice-driven assistant experimentation (Jarvis)
+- C programming fundamentals
+- Problem-solving and logic building
+- Command-line basics on Linux
+
+</td>
+<td width="50%" valign="top">
+
+### Workflow and Deployment
+
+- Git version control with clear commit messages
+- GitHub repositories and project organization
+- Deployment with GitHub Pages
+- Debugging with browser developer tools
+- Iterating on feedback
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -130,43 +223,16 @@ Every project is a chance to learn something new and to ship something real.
 
 ---
 
-## 📊 Skill Overview
-
-A self-assessment of where I stand today. This is honest, not inflated, and it
-updates as I grow.
-
-<div align="center">
-
-| Area | Technology | Comfort Level | Notes |
-|:---|:---|:---:|:---|
-| Markup | HTML5 | ⭐⭐⭐⭐☆ | Semantic structure, accessibility basics |
-| Styling | CSS3 | ⭐⭐⭐⭐☆ | Flexbox, Grid, animations, responsive layouts |
-| Scripting | JavaScript | ⭐⭐⭐☆☆ | DOM manipulation, events, UI interactivity |
-| Framework | Bootstrap 5 | ⭐⭐⭐⭐☆ | Grid system, components, utilities |
-| Language | Python | ⭐⭐⭐☆☆ | Scripting, automation, voice assistant |
-| Language | C | ⭐⭐⭐☆☆ | Fundamentals, problem solving |
-| Version Control | Git and GitHub | ⭐⭐⭐☆☆ | Commits, branches, GitHub Pages hosting |
-| Environment | Linux | ⭐⭐☆☆☆ | Command-line basics |
-| Backend | Node.js | ⭐☆☆☆☆ | Just getting started |
-| Database | MySQL | ⭐☆☆☆☆ | Learning queries and schema design |
-| Library | React | ⭐☆☆☆☆ | Learning components and state |
-
-</div>
-
-<br>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Description | Tech | Live Demo |
-|:---|:---|:---|:---:|
-| 🛍️ **MAISON Store** | Luxury fashion e-commerce with catalog, shopping bag, wishlist and size guide | HTML, CSS, JS | [View Live](https://sweetkutub-svg.github.io/maison-store_E-Commarce/) |
-| 🍽️ **Mondol Restaurant** | Fine-dining website with menu, chef profile, gallery and reservations | HTML, CSS, JS | [View Live](https://sweetkutub-svg.github.io/MondolRestaurant/) |
-| 🍛 **Rao's Restaurant** | Premium Indian dining site with animated counters, full menu and reviews | HTML, CSS, JS | [View Live](https://sweetkutub-svg.github.io/Rao-s-Resturent/) |
-| 🌶️ **Imli Mix** | My first web project, focused on creative UI/UX and a memorable experience | HTML, CSS | [View Live](https://sweetkutub-svg.github.io/Imli_mix/) |
+| Project | Industry | What It Demonstrates | Tech | Live |
+|:---|:---:|:---|:---|:---:|
+| 🛍️ **MAISON Store** | E-Commerce | Product catalog, shopping bag, wishlist, size guide | HTML, CSS, JS | [View Live](https://sweetkutub-svg.github.io/maison-store_E-Commarce/) |
+| 🍽️ **Mondol Restaurant** | Hospitality | Menu, chef profile, gallery, reservations | HTML, CSS, JS | [View Live](https://sweetkutub-svg.github.io/MondolRestaurant/) |
+| 🍛 **Rao's Restaurant** | Hospitality | Animated counters, full menu, customer reviews | HTML, CSS, JS | [View Live](https://sweetkutub-svg.github.io/Rao-s-Resturent/) |
+| 🌶️ **Imli Mix** | Creative | Creative UI/UX, first project, strong foundations | HTML, CSS | [View Live](https://sweetkutub-svg.github.io/Imli_mix/) |
 
 </div>
 
@@ -185,38 +251,43 @@ updates as I grow.
 
 ---
 
-## 🔍 Project Deep Dive
+## 🔍 Project Case Studies
 
-Expand any project below to see what it includes and what I learned building it.
+Each case study follows the same structure: the challenge, my approach, the
+features I delivered, and the skills it demonstrates.
 
 <details>
 <summary><b>🛍️ MAISON Store: Luxury Fashion E-Commerce</b></summary>
 
 <br>
 
-**Overview**
-A front-end e-commerce experience for a luxury fashion brand. The goal was to
-recreate the feel of a premium online boutique, with a clean layout, elegant
-typography and a smooth shopping flow.
+| | |
+|:---|:---|
+| **Type** | E-commerce front-end |
+| **Role** | Sole designer and developer |
+| **Stack** | HTML5, CSS3, JavaScript |
+| **Live** | [sweetkutub-svg.github.io/maison-store_E-Commarce](https://sweetkutub-svg.github.io/maison-store_E-Commarce/) |
 
-**Key Features**
+**The Challenge**
+Luxury shoppers expect an experience that feels as refined as the products.
+The goal was to deliver a premium look and a smooth shopping flow without
+relying on a heavy framework.
 
-- Product catalog with a clear, browsable layout
+**My Approach**
+- Planned the page structure and shopping flow before writing code
+- Built a consistent visual identity with elegant typography and restrained color
+- Implemented the bag and wishlist logic in vanilla JavaScript
+- Tested the layout across multiple screen sizes
+
+**What I Delivered**
+- Browsable product catalog
 - Shopping bag with item management
-- Wishlist to save favorite products
-- Size guide to help customers choose confidently
-- Responsive design across mobile, tablet and desktop
+- Wishlist for saving favorite products
+- Size guide to reduce purchase hesitation
+- Fully responsive layout
 
-**What I Practiced**
-
-- Structuring a multi-section site with reusable components
-- Managing UI state with JavaScript (bag and wishlist)
-- Designing a consistent visual identity with CSS
-- Making layouts adapt cleanly to different screen sizes
-
-**Links**
-
-- Live: [sweetkutub-svg.github.io/maison-store_E-Commarce](https://sweetkutub-svg.github.io/maison-store_E-Commarce/)
+**Skills Demonstrated**
+`State management in JS` &nbsp; `Responsive design` &nbsp; `Design consistency` &nbsp; `User flow thinking`
 
 <br>
 
@@ -227,28 +298,31 @@ typography and a smooth shopping flow.
 
 <br>
 
-**Overview**
-A sophisticated restaurant website designed to present the dining experience
-before a guest ever walks through the door.
+| | |
+|:---|:---|
+| **Type** | Restaurant website |
+| **Role** | Sole designer and developer |
+| **Stack** | HTML5, CSS3, JavaScript |
+| **Live** | [sweetkutub-svg.github.io/MondolRestaurant](https://sweetkutub-svg.github.io/MondolRestaurant/) |
 
-**Key Features**
+**The Challenge**
+A fine-dining restaurant needs to convey atmosphere and quality online, and make
+it easy for a visitor to go from browsing to booking a table.
 
-- Categorized menu with clear item descriptions
-- Chef profile section that adds a personal touch
-- Photo gallery showcasing the food and ambience
-- Reservation section for booking a table
-- Fully responsive layout
+**My Approach**
+- Prioritized the visitor journey: story, menu, gallery, then reservation
+- Used strong imagery and whitespace to create an upscale feel
+- Kept the reservation experience short and simple
 
-**What I Practiced**
+**What I Delivered**
+- Categorized menu with clear descriptions
+- Chef profile that adds a personal story
+- Gallery showcasing food and ambience
+- Reservation section
+- Responsive layout for every device
 
-- Building visual hierarchy for content-heavy pages
-- Creating image galleries that stay tidy on every screen
-- Designing forms that are simple and easy to complete
-- Balancing elegance with readability
-
-**Links**
-
-- Live: [sweetkutub-svg.github.io/MondolRestaurant](https://sweetkutub-svg.github.io/MondolRestaurant/)
+**Skills Demonstrated**
+`Visual hierarchy` &nbsp; `Image galleries` &nbsp; `Form design` &nbsp; `Content-heavy layouts`
 
 <br>
 
@@ -259,57 +333,58 @@ before a guest ever walks through the door.
 
 <br>
 
-**Overview**
-A premium website for an Indian dining brand, with more motion and personality
-than my earlier projects.
+| | |
+|:---|:---|
+| **Type** | Restaurant website |
+| **Role** | Sole designer and developer |
+| **Stack** | HTML5, CSS3, JavaScript |
+| **Live** | [sweetkutub-svg.github.io/Rao-s-Resturent](https://sweetkutub-svg.github.io/Rao-s-Resturent/) |
 
-**Key Features**
+**The Challenge**
+Make an Indian dining brand feel premium and trustworthy, with more energy and
+motion than a static brochure site.
 
-- Animated counters highlighting key numbers
+**My Approach**
+- Added purposeful animation to highlight key numbers and sections
+- Used customer reviews as social proof to build trust
+- Kept animations lightweight so pages stay fast
+
+**What I Delivered**
+- Animated counters for key business figures
 - Complete menu presentation
-- Customer reviews section to build trust
-- Polished scroll and hover interactions
-- Responsive across devices
+- Customer reviews section
+- Polished hover and scroll interactions
+- Responsive layout
 
-**What I Practiced**
-
-- Writing JavaScript animations, such as counters triggered on scroll
-- Presenting social proof (reviews) in a clean way
-- Keeping animations smooth without hurting performance
-- Improving visual polish through spacing and typography
-
-**Links**
-
-- Live: [sweetkutub-svg.github.io/Rao-s-Resturent](https://sweetkutub-svg.github.io/Rao-s-Resturent/)
+**Skills Demonstrated**
+`JavaScript animation` &nbsp; `Social proof design` &nbsp; `Performance awareness` &nbsp; `Polish and detail`
 
 <br>
 
 </details>
 
 <details>
-<summary><b>🌶️ Imli Mix: My First Web Project</b></summary>
+<summary><b>🌶️ Imli Mix: Where It Started</b></summary>
 
 <br>
 
-**Overview**
-This is where it all started. Imli Mix was my first real web project, built to
-learn the fundamentals and to experiment with creative UI/UX ideas.
+| | |
+|:---|:---|
+| **Type** | Creative web project |
+| **Role** | Sole designer and developer |
+| **Stack** | HTML5, CSS3 |
+| **Live** | [sweetkutub-svg.github.io/Imli_mix](https://sweetkutub-svg.github.io/Imli_mix/) |
 
-**Key Features**
+**The Challenge**
+Learn the fundamentals of web development by building something with personality.
 
-- Creative, playful visual design
-- Focus on a memorable user experience
-- Clean HTML and CSS foundations
+**What I Delivered**
+- A creative, playful interface
+- A memorable user experience
+- A clean foundation of HTML and CSS that I built on in every later project
 
-**What I Practiced**
-
-- Core HTML structure and CSS styling
-- Publishing a site with GitHub Pages for the first time
-- Turning a rough idea into something people can actually visit
-
-**Links**
-
-- Live: [sweetkutub-svg.github.io/Imli_mix](https://sweetkutub-svg.github.io/Imli_mix/)
+**Skills Demonstrated**
+`HTML and CSS fundamentals` &nbsp; `Creative UI thinking` &nbsp; `First deployment on GitHub Pages`
 
 <br>
 
@@ -320,25 +395,23 @@ learn the fundamentals and to experiment with creative UI/UX ideas.
 
 <br>
 
-**Overview**
-A personal experiment in building a voice-driven assistant with Python,
-inspired by the idea of a helpful AI companion.
+| | |
+|:---|:---|
+| **Type** | Python automation project |
+| **Role** | Sole developer |
+| **Stack** | Python |
+| **Repo** | [github.com/sweetkutub-svg/Jarvis_voice](https://github.com/sweetkutub-svg/Jarvis_voice) |
 
-**Focus Areas**
+**The Challenge**
+Explore how software can be controlled naturally by voice and automate everyday
+tasks.
 
-- Voice input and spoken responses
-- Automating everyday tasks with Python scripts
-- Structuring a project that can grow feature by feature
+**What I Delivered**
+- A voice-driven assistant built in Python
+- A modular structure that can grow feature by feature
 
-**What I Practiced**
-
-- Writing modular Python code
-- Working with external libraries
-- Thinking about how people interact with software by voice
-
-**Links**
-
-- Repository: [github.com/sweetkutub-svg/Jarvis_voice](https://github.com/sweetkutub-svg/Jarvis_voice)
+**Skills Demonstrated**
+`Python scripting` &nbsp; `Working with libraries` &nbsp; `Automation thinking` &nbsp; `Modular design`
 
 <br>
 
@@ -348,51 +421,63 @@ inspired by the idea of a helpful AI companion.
 
 ---
 
-## 🌱 What I Am Learning
+## 🎓 Final-Year Project
 
-I believe a developer should always have something they are learning. Right now
-my attention is on moving from front-end only to full-stack development.
+<!--
+  EDIT THIS SECTION: Replace the placeholder text below with details of your
+  real final-year diploma project. Recruiters value this section highly.
+-->
 
 <div align="center">
 
-| Technology | Why I Am Learning It | Goal |
-|:---|:---|:---|
-| **Node.js** | To build server-side logic and APIs | Create my own backend for a project |
-| **MySQL** | To store and query real application data | Design a proper database schema |
-| **React** | To build scalable, component-based interfaces | Rebuild a portfolio project in React |
-| **Git workflows** | To collaborate and manage code professionally | Use branches and pull requests confidently |
+| | |
+|:---|:---|
+| **Project Title** | *Add your final-year project title here* |
+| **Problem Solved** | *One sentence describing the real problem it addresses* |
+| **Technologies** | *List the technologies you used* |
+| **Your Role** | *Your responsibilities (and team size, if any)* |
+| **Outcome** | *What you achieved: features delivered, results, or feedback received* |
+| **Link** | *Repository or live demo link* |
 
 </div>
+
+> Tip: A clear final-year project with a real problem statement and a live demo
+> is one of the strongest things you can show a recruiter. Fill this in before
+> you publish.
 
 <br>
 
 ---
 
-## 🗺 Learning Roadmap
+## 🔄 How I Work
 
 ```mermaid
 flowchart LR
-    A["HTML and CSS<br/>Foundations"] --> B["JavaScript<br/>Interactivity"]
-    B --> C["Bootstrap 5<br/>Responsive UI"]
-    C --> D["Real Projects<br/>MAISON, Mondol, Rao's"]
-    D --> E["Node.js<br/>Backend"]
-    E --> F["MySQL<br/>Databases"]
-    F --> G["React<br/>Modern Front-End"]
-    G --> H["Full-Stack<br/>Applications"]
+    A["Understand<br/>Goals and Audience"] --> B["Plan<br/>Structure and Layout"]
+    B --> C["Build<br/>HTML, CSS, JS"]
+    C --> D["Test<br/>Devices and Browsers"]
+    D --> E["Deploy<br/>GitHub Pages"]
+    E --> F["Improve<br/>Feedback Loop"]
+    F -.-> C
 
     style A fill:#7C3AED,stroke:#7C3AED,color:#fff
     style B fill:#7C3AED,stroke:#7C3AED,color:#fff
-    style C fill:#7C3AED,stroke:#7C3AED,color:#fff
-    style D fill:#7C3AED,stroke:#7C3AED,color:#fff
-    style E fill:#06B6D4,stroke:#06B6D4,color:#fff
-    style F fill:#06B6D4,stroke:#06B6D4,color:#fff
-    style G fill:#06B6D4,stroke:#06B6D4,color:#fff
-    style H fill:#22C55E,stroke:#22C55E,color:#fff
+    style C fill:#06B6D4,stroke:#06B6D4,color:#fff
+    style D fill:#06B6D4,stroke:#06B6D4,color:#fff
+    style E fill:#22C55E,stroke:#22C55E,color:#fff
+    style F fill:#22C55E,stroke:#22C55E,color:#fff
 ```
 
 <div align="center">
 
-🟣 Completed &nbsp;&nbsp; 🔵 In progress &nbsp;&nbsp; 🟢 Destination
+| Phase | What I Do | What You Get |
+|:---|:---|:---|
+| **1. Discover** | Clarify goals, audience, content and references | A shared understanding before any code is written |
+| **2. Plan** | Define sections, navigation and visual direction | A clear structure and layout |
+| **3. Build** | Write semantic HTML, styled CSS and focused JavaScript | A working, responsive website |
+| **4. Test** | Check multiple screen sizes and browsers, fix issues | A reliable experience for every visitor |
+| **5. Deploy** | Publish the site with clean version history | A live link you can share immediately |
+| **6. Iterate** | Apply feedback and refine details | A site that keeps improving |
 
 </div>
 
@@ -400,72 +485,28 @@ flowchart LR
 
 ---
 
-## 🔄 Development Workflow
-
-This is how I usually take a project from idea to live website.
-
-```mermaid
-flowchart TD
-    A["1. Idea and Research"] --> B["2. Layout Sketch"]
-    B --> C["3. HTML Structure"]
-    C --> D["4. CSS Styling"]
-    D --> E["5. JavaScript Features"]
-    E --> F["6. Responsive Testing"]
-    F --> G["7. Push to GitHub"]
-    G --> H["8. Deploy with GitHub Pages"]
-    H --> I["9. Feedback and Improvements"]
-    I -.-> C
-```
-
-<details>
-<summary><b>Step-by-step breakdown</b></summary>
-
-<br>
-
-| Step | What Happens |
-|:---:|:---|
-| 1 | Understand the goal, audience and content. Look at similar websites for inspiration. |
-| 2 | Sketch the page layout and decide the sections and their order. |
-| 3 | Write clean, semantic HTML that gives the page a solid skeleton. |
-| 4 | Apply CSS for colors, typography, spacing and layout. |
-| 5 | Add JavaScript for interactions such as menus, sliders, counters and forms. |
-| 6 | Test on multiple screen sizes and fix anything that breaks. |
-| 7 | Commit changes with clear messages and push them to GitHub. |
-| 8 | Publish the site with GitHub Pages. |
-| 9 | Collect feedback, refine details and iterate. |
-
-</details>
-
-<br>
-
----
-
-## 📐 Engineering Principles
-
-The habits I try to follow in every project:
+## 📐 Code Quality Standards
 
 <div align="center">
 
-| Principle | What It Means to Me |
+| Standard | How I Apply It |
 |:---|:---|
-| **Clarity first** | Readable code beats clever code. Future me should understand it. |
-| **Mobile-friendly by default** | Every layout must work on a phone, not only on a desktop. |
-| **Performance matters** | Optimize images, avoid unnecessary scripts and keep pages fast. |
-| **Consistency** | Reuse spacing, colors and components so the design feels unified. |
-| **Accessibility basics** | Use semantic HTML, alt text and sufficient color contrast. |
-| **Ship, then improve** | A live project teaches more than a perfect unfinished one. |
-| **Keep learning** | Technology moves fast. Curiosity is the real skill. |
+| **Readability** | Clear naming, consistent formatting and small focused functions |
+| **Responsiveness** | Mobile-first layouts tested on multiple screen sizes |
+| **Performance** | Optimized images, minimal scripts and lightweight animation |
+| **Accessibility** | Semantic HTML, alt text and readable color contrast |
+| **Consistency** | Shared design tokens for color, spacing and typography |
+| **Version control** | Frequent commits with descriptive messages |
+| **Maintainability** | Organized folders and reusable patterns |
 
 </div>
 
 <br>
 
-### Code Style Snapshot
-
-A small example of the kind of clean, readable code I aim to write:
+### Style Snapshot
 
 ```css
-/* Design tokens keep the whole site consistent */
+/* Design tokens keep the whole site visually consistent */
 :root {
   --color-primary: #7c3aed;
   --color-accent: #06b6d4;
@@ -490,7 +531,7 @@ A small example of the kind of clean, readable code I aim to write:
 ```
 
 ```javascript
-// Small, focused functions are easy to test and reuse
+// Small, focused, reusable functions
 function animateCounter(element, target, duration = 1500) {
   const start = performance.now();
 
@@ -508,49 +549,24 @@ function animateCounter(element, target, duration = 1500) {
 
 ---
 
-## 💼 Services I Offer
-
-I am open to freelance work and internships. Here is what I can help with:
+## 📊 Skills Matrix
 
 <div align="center">
 
-| Service | Description |
-|:---|:---|
-| 🌐 **Business Websites** | Clean, professional websites for small businesses and local brands |
-| 🍽️ **Restaurant and Cafe Sites** | Menu, gallery, reviews and reservation sections |
-| 🛍️ **E-Commerce Front-Ends** | Product catalogs, cart and wishlist interfaces |
-| 👤 **Personal Portfolios** | Modern portfolio sites for students and professionals |
-| 📱 **Responsive Redesign** | Making existing sites look great on every device |
-| ⚙️ **Python Automation** | Small scripts that save time on repetitive tasks |
-
-</div>
-
-<br>
-
-### What You Can Expect From Me
-
-- **Clear communication** and regular updates throughout the project
-- **Clean, well-organized code** that is easy to maintain
-- **Responsive layouts** tested on multiple screen sizes
-- **Honest timelines** and no surprises
-- **A willingness to learn** whatever the project requires
-
-<br>
-
----
-
-## 🔭 Currently Working On
-
-<div align="center">
-
-| Focus | Status |
-|:---|:---:|
-| Learning Node.js fundamentals | 🟡 In progress |
-| Learning MySQL and database design | 🟡 In progress |
-| Learning React basics | 🟡 In progress |
-| Improving my portfolio website | 🟡 In progress |
-| Expanding the Jarvis voice assistant | 🟡 In progress |
-| Completing my diploma (2nd year) | 🟢 On track |
+| Category | Technology | Level | Evidence |
+|:---|:---|:---:|:---|
+| Markup | HTML5 | ⭐⭐⭐⭐☆ | Used in all 4+ live projects |
+| Styling | CSS3 | ⭐⭐⭐⭐☆ | Responsive layouts, animations, design tokens |
+| Scripting | JavaScript | ⭐⭐⭐☆☆ | Bag, wishlist and animated counters |
+| Framework | Bootstrap 5 | ⭐⭐⭐⭐☆ | Grid and component-based layouts |
+| Language | Python | ⭐⭐⭐☆☆ | Jarvis voice assistant |
+| Language | C | ⭐⭐⭐☆☆ | Academic coursework |
+| Version Control | Git and GitHub | ⭐⭐⭐☆☆ | All projects versioned and deployed |
+| Deployment | GitHub Pages | ⭐⭐⭐⭐☆ | Every project is live |
+| Environment | Linux | ⭐⭐☆☆☆ | Command-line basics |
+| Backend | Node.js | ⭐☆☆☆☆ | Currently learning |
+| Database | MySQL | ⭐☆☆☆☆ | Currently learning |
+| Library | React | ⭐☆☆☆☆ | Currently learning |
 
 </div>
 
@@ -558,44 +574,138 @@ I am open to freelance work and internships. Here is what I can help with:
 
 ---
 
-## 🎯 Goals
+## 🌱 Continuous Learning
+
+I am deliberately growing from front-end into full-stack development.
+
+```mermaid
+flowchart LR
+    A["Front-End<br/>Foundations"] --> B["Real Projects<br/>4+ Live Sites"]
+    B --> C["Node.js<br/>Server Side"]
+    C --> D["MySQL<br/>Data Layer"]
+    D --> E["React<br/>Component UIs"]
+    E --> F["Full-Stack<br/>Applications"]
+
+    style A fill:#7C3AED,stroke:#7C3AED,color:#fff
+    style B fill:#7C3AED,stroke:#7C3AED,color:#fff
+    style C fill:#06B6D4,stroke:#06B6D4,color:#fff
+    style D fill:#06B6D4,stroke:#06B6D4,color:#fff
+    style E fill:#06B6D4,stroke:#06B6D4,color:#fff
+    style F fill:#22C55E,stroke:#22C55E,color:#fff
+```
+
+<div align="center">
+
+| Technology | Purpose | Target Outcome |
+|:---|:---|:---|
+| **Node.js** | Server-side logic and APIs | A working backend for one of my projects |
+| **MySQL** | Persistent data storage | A properly designed database schema |
+| **React** | Scalable component-based interfaces | An existing project rebuilt in React |
+| **Advanced Git** | Professional collaboration | Confident use of branches and pull requests |
+
+</div>
+
+<br>
+
+---
+
+## 🎯 Career Objective
+
+> To join a development team as an intern or junior developer, where I can apply
+> my front-end skills to real products, learn from experienced engineers, and grow
+> into a well-rounded full-stack developer.
 
 <details open>
-<summary><b>Short-Term (next 6 months)</b></summary>
+<summary><b>Roles I am targeting</b></summary>
 
 <br>
 
-- [x] Build and publish four live website projects
-- [x] Create a personal portfolio website
-- [ ] Complete the Node.js fundamentals
-- [ ] Build a project that connects to a MySQL database
-- [ ] Rebuild one existing project using React
-- [ ] Land a first internship or freelance client
+- Front-End Developer (Intern or Junior)
+- Web Developer (Intern or Junior)
+- UI Developer
+- Junior Full-Stack Developer (as my backend skills mature)
+- Freelance Website Developer
 
 </details>
 
 <details>
-<summary><b>Mid-Term (1 to 2 years)</b></summary>
+<summary><b>Goals</b></summary>
 
 <br>
 
-- [ ] Build a complete full-stack application
+**Next 6 months**
+
+- [x] Build and deploy four live website projects
+- [x] Publish a personal portfolio
+- [ ] Complete and document my final-year project
+- [ ] Build a project connected to a MySQL database
+- [ ] Rebuild one project using React
+- [ ] Secure an internship or first junior role
+
+**Next 1 to 2 years**
+
+- [ ] Ship a complete full-stack application
 - [ ] Contribute to an open-source project
-- [ ] Strengthen my data structures and algorithms foundation
-- [ ] Graduate with my diploma and continue into further studies or a developer role
+- [ ] Strengthen data structures and algorithms
+- [ ] Grow into a confident full-stack developer
 
 </details>
-
-<details>
-<summary><b>Long-Term</b></summary>
 
 <br>
 
-- [ ] Become a confident full-stack developer
-- [ ] Build products that real people use every day
-- [ ] Mentor other beginners who are just starting out
+---
 
-</details>
+## 💼 Services
+
+<div align="center">
+
+| Service | Best For | Deliverable |
+|:---|:---|:---|
+| 🌐 **Business Websites** | Small businesses and local brands | Multi-section, responsive site |
+| 🍽️ **Restaurant and Cafe Sites** | Hospitality businesses | Menu, gallery, reviews, reservations |
+| 🛍️ **E-Commerce Front-Ends** | Online stores and boutiques | Catalog, cart and wishlist interface |
+| 👤 **Personal Portfolios** | Students and professionals | Modern, fast portfolio website |
+| 📱 **Responsive Redesign** | Sites that break on mobile | Cleaned-up layout across all devices |
+| ⚙️ **Python Automation** | Repetitive manual tasks | Custom script that saves time |
+
+</div>
+
+<br>
+
+---
+
+## 📅 Availability and Work Preferences
+
+<div align="center">
+
+| | |
+|:---|:---|
+| 🟢 **Status** | Open to work |
+| 💼 **Engagement Types** | Internship, junior full-time, part-time, freelance |
+| 🌐 **Work Mode** | Remote, hybrid or on-site in Kolkata |
+| 📆 **Start Date** | Available for internships now, full-time after graduation (2027) |
+| ⏱ **Response Time** | Usually within 24 hours |
+| 📬 **Best Way to Reach Me** | Email or LinkedIn |
+
+</div>
+
+<br>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| | |
+|:---|:---|
+| **Program** | Diploma (3-year program) <!-- add your branch, e.g. Computer Science / IT --> |
+| **Duration** | 2024 to 2027 |
+| **Current Status** | Final year |
+| **Institution** | *Add your institute name here* |
+| **Relevant Coursework** | Programming in C, Web Technologies, Databases <!-- edit to match your syllabus --> |
+
+</div>
 
 <br>
 
@@ -604,54 +714,55 @@ I am open to freelance work and internships. Here is what I can help with:
 ## ❓ Frequently Asked Questions
 
 <details>
-<summary><b>Are you available for freelance work?</b></summary>
+<summary><b>Are you available for internships and full-time roles?</b></summary>
 
 <br>
 
-Yes. I am open to freelance projects, especially business websites, restaurant
-sites, portfolios and e-commerce front-ends. Send me an email with a short
-description of what you need.
+Yes. I am available for internships now and looking for junior roles that begin
+around my graduation in 2027. I am also open to part-time and freelance work
+alongside my studies.
 
 </details>
 
 <details>
-<summary><b>Are you looking for an internship?</b></summary>
+<summary><b>What kind of work do you do best?</b></summary>
 
 <br>
 
-Yes. I am actively looking for web development internships where I can learn
-from experienced developers while contributing to real projects.
+Front-end development: turning a design or an idea into a clean, responsive and
+polished website using HTML, CSS, JavaScript and Bootstrap.
 
 </details>
 
 <details>
-<summary><b>What technologies do you work with most?</b></summary>
+<summary><b>Can you work with backend technologies?</b></summary>
 
 <br>
 
-My strongest area is front-end development with HTML, CSS, JavaScript and
-Bootstrap. I also use Python for scripting and automation, and I am currently
-learning Node.js, MySQL and React.
+I am currently learning Node.js and MySQL and building toward full-stack skills.
+I am upfront about my level, and I learn quickly when a project needs something
+new.
 
 </details>
 
 <details>
-<summary><b>How can I contact you?</b></summary>
+<summary><b>How do I see examples of your work?</b></summary>
 
 <br>
 
-The fastest way is email at **codewithkutub@gmail.com**. You can also reach me
-on [LinkedIn](https://www.linkedin.com/in/sk-kutubuddin-6377a1391/).
+Every project in the [Featured Projects](#-featured-projects) section has a live
+link, and my [portfolio](https://sweetkutub-svg.github.io/My_Portfolio/) brings
+them together in one place.
 
 </details>
 
 <details>
-<summary><b>Do you collaborate on open-source or side projects?</b></summary>
+<summary><b>What is the best way to contact you?</b></summary>
 
 <br>
 
-Absolutely. If you have a beginner-friendly project or an interesting idea,
-feel free to reach out. Collaboration is one of the best ways to learn.
+Email me at **codewithkutub@gmail.com** or message me on
+[LinkedIn](https://www.linkedin.com/in/sk-kutubuddin-6377a1391/).
 
 </details>
 
@@ -659,28 +770,13 @@ feel free to reach out. Collaboration is one of the best ways to learn.
 
 ---
 
-## 🤝 Let's Work Together
+## 📬 Contact
 
 <div align="center">
 
-If you have a project in mind, an opportunity to share, or just want to talk
-about web development, I would love to hear from you.
+**Have a role, project or idea in mind? Let's talk.**
 
 <br>
-
-[![Send Email](https://img.shields.io/badge/Send_Email-codewithkutub%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithkutub@gmail.com)
-
-<br>
-
-</div>
-
-<br>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-sweetkutub--svg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sweetkutub-svg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sk--kutubuddin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-kutubuddin-6377a1391/)
@@ -695,9 +791,9 @@ about web development, I would love to hear from you.
 
 <div align="center">
 
-### Thanks for stopping by! ⭐
+### Thank you for visiting my profile ⭐
 
-*If you like my work, consider giving a repository a star. It really motivates me to keep building.*
+*If you like my work, a star on any repository means a lot.*
 
 <br>
 
@@ -707,6 +803,6 @@ about web development, I would love to hear from you.
 
 <br>
 
-**Made with ☕ and curiosity in Kolkata, India**
+**Designed and built by Sk Kutubuddin &nbsp;|&nbsp; Kolkata, India**
 
 </div>
