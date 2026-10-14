@@ -242,7 +242,7 @@ alongside an experienced team.
 
 <div align="center">
 
-[![My Portfolio](https://img.shields.io/badge/Repo-My_Portfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sweetkutub-svg/My_Portfolio)
+[![My Portfolio](https://img.shields.io/badge/Repo-My_Portfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://www.codewithkutub.online/)
 [![Jarvis Voice](https://img.shields.io/badge/Repo-Jarvis_Voice-06B6D4?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sweetkutub-svg/Jarvis_voice)
 
 </div>
