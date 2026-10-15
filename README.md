@@ -22,7 +22,7 @@ Graduating in 2027 and open to internships, junior roles and freelance projects.
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sweetkutub-svg.github.io/My_Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.codewithkutub.online/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-kutubuddin-6377a1391/)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithkutub@gmail.com)
 [![Status](https://img.shields.io/badge/Status-Open_to_Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white)](#-availability-and-work-preferences)
@@ -751,7 +751,7 @@ new.
 <br>
 
 Every project in the [Featured Projects](#-featured-projects) section has a live
-link, and my [portfolio](https://sweetkutub-svg.github.io/My_Portfolio/) brings
+link, and my [portfolio](https://www.codewithkutub.online/) brings
 them together in one place.
 
 </details>
@@ -780,7 +780,7 @@ Email me at **codewithkutub@gmail.com** or message me on
 
 [![GitHub](https://img.shields.io/badge/GitHub-sweetkutub--svg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sweetkutub-svg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sk--kutubuddin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-kutubuddin-6377a1391/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sweetkutub-svg.github.io/My_Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.codewithkutub.online/)
 [![Email](https://img.shields.io/badge/Email-codewithkutub%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithkutub@gmail.com)
 
 </div>
